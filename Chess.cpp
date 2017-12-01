@@ -6,7 +6,7 @@ using namespace std;
 bool lim(int a) {
 	bool flag;
 	if (a < 1 || a > 8) {
-		flag = true;
+		flag = true
 	}
 	else {
 		flag = false;
